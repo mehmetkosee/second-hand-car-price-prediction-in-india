@@ -37,7 +37,7 @@ The dataset used in this project contains the following features:
 ## Installation and Usage
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/car-price-prediction.git
+   git clone https://github.com/mehmetkosee/car-price-prediction.git
 
 2. Install the required packages:
    pip install pandas numpy scikit-learn xgboost matplotlib seaborn
