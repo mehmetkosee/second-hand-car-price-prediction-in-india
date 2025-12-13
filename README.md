@@ -34,17 +34,6 @@ The dataset used in this project contains the following features:
 - XGBoost (Gradient boosting framework)
 - Matplotlib & Seaborn (Data visualization)
 
-## Installation and Usage
-
-1. Clone the repository:
-   git clone https://github.com/mehmetkosee/car-price-prediction.git
-
-2. Install the required packages:
-   pip install pandas numpy scikit-learn xgboost matplotlib seaborn
-
-3. Run the Jupyter Notebook:
-   jupyter notebook "second-hand-car-price-prediction-in-india.ipynb"
-
 ## Methodology
 
 1. **Data Preprocessing**: 
